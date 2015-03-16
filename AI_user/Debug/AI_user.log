@@ -1,0 +1,31 @@
+﻿生成启动时间为 2012/11/29 22:37:51。
+     1>项目“E:\图灵杯\决赛版\AI_user\AI_user\AI_user.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\AI_user.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files (x86)\msvc2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D AI_USER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AI_user.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AI_user.cpp
+         AI_user.cpp
+     1>e:\图灵杯\决赛版\ai_user\ai_user\ai_user.cpp(547): warning C4715: “cutthistree”: 不是所有的控件路径都返回值
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\msvc2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"../AI/AI_user.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\AI_user.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\图灵杯\决赛版\AI_user\AI\AI_user.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"../AI/AI_user.lib" /MACHINE:X86 /DLL Debug\AI_user.dll.embed.manifest.res
+         Debug\AI_user.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AI_user.dll.embed.manifest" /manifest Debug\AI_user.dll.intermediate.manifest "d:\Program Files (x86)\msvc2010\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         AI_user.vcxproj -> E:\图灵杯\决赛版\AI_user\AI_user\../AI/AI_user.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\AI_user.unsuccessfulbuild”。
+         正在对“Debug\AI_user.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\图灵杯\决赛版\AI_user\AI_user\AI_user.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.96

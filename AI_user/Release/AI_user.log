@@ -1,0 +1,28 @@
+﻿生成启动时间为 2012/11/29 22:39:14。
+     1>项目“E:\图灵杯\决赛版\AI_user\AI_user\AI_user.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\AI_user.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files (x86)\msvc2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D AI_USER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AI_user.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AI_user.cpp
+         AI_user.cpp
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\msvc2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"../AI/AI_user.dll" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\AI_user.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\图灵杯\决赛版\AI_user\AI\AI_user.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"../AI/AI_user.lib" /MACHINE:X86 /DLL Release\AI_user.obj
+         Release\dllmain.obj
+         Release\stdafx.obj
+            正在创建库 ../AI/AI_user.lib 和对象 ../AI/AI_user.exp
+         正在生成代码
+     1>e:\图灵杯\决赛版\ai_user\ai_user\ai_user.cpp(547): warning C4715: “cutthistree”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         AI_user.vcxproj -> E:\图灵杯\决赛版\AI_user\AI_user\../AI/AI_user.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"../AI/AI_user.dll;#2" /manifest Release\AI_user.dll.intermediate.manifest "d:\Program Files (x86)\msvc2010\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\AI_user.unsuccessfulbuild”。
+         正在对“Release\AI_user.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\图灵杯\决赛版\AI_user\AI_user\AI_user.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.02
